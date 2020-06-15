@@ -1,4 +1,4 @@
-# Emily's Trinkets - React Router
+# Emily's Trinkets - React Router #
 
 ## Running this project
 
